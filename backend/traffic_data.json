@@ -1,0 +1,22 @@
+{
+    "traffic_volume": [
+      {"time": "2025-03-25T10:00:00", "volume": 180},
+      {"time": "2025-03-25T10:01:00", "volume": 190},
+      {"time": "2025-03-25T10:02:00", "volume": 220},
+      {"time": "2025-03-25T10:03:00", "volume": 210},
+      {"time": "2025-03-25T10:04:00", "volume": 230},
+      {"time": "2025-03-25T10:05:00", "volume": 250},
+      {"time": "2025-03-25T10:06:00", "volume": 300},
+      {"time": "2025-03-25T10:07:00", "volume": 280},
+      {"time": "2025-03-25T10:08:00", "volume": 260},
+      {"time": "2025-03-25T10:09:00", "volume": 270},
+      {"time": "2025-03-25T10:10:00", "volume": 290}
+    ],
+    "top_apps": [
+      {"name": "HTTP", "volume": 1200},
+      {"name": "HTTPS", "volume": 900},
+      {"name": "FTP", "volume": 600},
+      {"name": "SSH", "volume": 400},
+      {"name": "SMTP", "volume": 300}
+    ]
+  }

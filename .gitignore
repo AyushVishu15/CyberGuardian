@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+traffic_logs.db
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# Environment
+*.env
