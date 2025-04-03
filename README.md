@@ -10,10 +10,11 @@ A web-based network monitoring dashboard built with Flask (backend) and React (f
 - **Real-Time Updates**: Refreshes every 5 seconds to reflect simulated changes.
 
 ## Screenshots
-![CyberGuardian Dashboard](![image](https://github.com/user-attachments/assets/3ffb0bc6-de83-4847-a299-d23dea779a35)
+![CyberGuardian Dashboard]
+![image](https://github.com/user-attachments/assets/3ffb0bc6-de83-4847-a299-d23dea779a35)
 ![image](https://github.com/user-attachments/assets/b1e1014f-8864-434b-97cb-eedbb2017cd6)
 ![image](https://github.com/user-attachments/assets/6112b6d8-48fc-4818-a02e-2e63a94484a3)
-)
+
 *Screenshot of the dashboard showing traffic graphs, device statuses, and logs.*
 
 ## Current State
